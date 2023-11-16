@@ -1,0 +1,101 @@
+Restore Archived Project report for de10_lite_basis
+Thu Nov 16 10:38:11 2023
+Quartus Prime Version 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2023  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Nov 16 10:38:11 2023 ;
+; Revision Name                   ; de10_lite_basis                       ;
+; Top-level Entity Name           ;                                       ;
+; Family                          ; MAX 10                                ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/momiv/Documents/GitHub/Multiplikator/de10_lite_basis.qar' into the 'C:/Users/momiv/Documents/GitHub/Multiplikator/de10_lite_basis_restored/' directory
+Info: Generated report 'de10_lite_basis.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/22.1std/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 7 warnings
+    Info: Peak virtual memory: 4857 megabytes
+    Info: Processing ended: Thu Nov 16 10:38:11 2023
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:00
+
+
++----------------------------------------+
+; Files Restored                         ;
++----------------------------------------+
+; File Name                              ;
++----------------------------------------+
+; qar_info.json                          ;
+; assignment_defaults.qdf                ;
+; de10-lite--basis.bdf                   ;
+; de10_basis_div.qsf                     ;
+; de10_basis_div_assignment_defaults.qdf ;
+; de10_lite_basis.qpf                    ;
+; de10_lite_basis.qsf                    ;
+; de10_lite_basis.sdc                    ;
+; de10_lite_basis_cpu.qsf                ;
+; de10_lite_cpldshield.qsf               ;
+; de10_lite_ltc2642.qsf                  ;
+; de10_lite_ltc2642.sdc                  ;
+; de10_lite_meta.qsf                     ;
+; de10_lite_meta.sdc                     ;
+; de10_lite_servo.qsf                    ;
+; de10_lite_servo.sdc                    ;
+; de10_lite_servo_vorlage.qsf            ;
+; de10_lite_spi.qsf                      ;
+; de10_lite_spi.sdc                      ;
+; de10lite_basis_ufm.qsf                 ;
+; de_10_lite_gpio_out.qsf                ;
+; pll_basis.bsf                          ;
+; pll_basis.cmp                          ;
+; pll_basis.ppf                          ;
+; pll_basis.qip                          ;
+; pll_basis.vhd                          ;
+; seg7dec_ena.vhd                        ;
++----------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
